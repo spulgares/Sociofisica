@@ -3,7 +3,7 @@ Aqui se subiran los codigos de las tareas para la asignatura Sociofisica
 
 Tarea 1: Voter Model
 -------------------------
-El código desarrollado nara esta tarea tiene las dependencias:
+El código desarrollado para esta tarea tiene las dependencias:
 * Numpy
 * Matplotlib
 * os
@@ -16,3 +16,4 @@ El código desarrollado nara esta tarea tiene las dependencias:
     * Parámetro 2: Número de iteraciones
     * Parámetro 3: Semilla aleatoria a utilizar 
     * Parámetro 4: Número de simulaciones que se realizarán
+    * Parámetro 5: Carpeta a crear con las simulaciones, debe encerrarse en comillas, de la forma 'Nombre_carpeta'
