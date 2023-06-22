@@ -1,5 +1,5 @@
 # Repositorio para la asignatura Sociofisica 2023-1
-Aqui se subiran los codigos de las tareas para la asignatura Sociofisica
+Este repositorio contendrá los codigos de las tareas para la asignatura Sociofisica, que constituyen el portafolio de la asignatura
 
 Tarea 1: Voter Model
 -------------------------
