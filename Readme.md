@@ -17,4 +17,5 @@ El código desarrollado para esta tarea tiene las dependencias:
     * Parámetro 3: Semilla aleatoria a utilizar 
     * Parámetro 4: Número de simulaciones que se realizarán
     * Parámetro 5: Carpeta a crear con las simulaciones, debe encerrarse en comillas, de la forma 'Nombre_carpeta'
+
 Los resultados de las simulaciones realizadas quedan en la carpeta "Simulacion/'Nombre_carpeta'/xxxx/", donde "xxxx" es el número de la simulación realizada, cada una de estas contiene la imagen de resumen pedida y un registro de la información relevante de cada simulación
