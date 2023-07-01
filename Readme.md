@@ -19,3 +19,15 @@ El código desarrollado para esta tarea tiene las dependencias:
     * Parámetro 5: Carpeta a crear con las simulaciones, debe encerrarse en comillas, de la forma 'Nombre_carpeta'
 
 Los resultados de las simulaciones realizadas quedan en la carpeta "Simulacion/'Nombre_carpeta'/xxxx/", donde "xxxx" es el número de la simulación, cada una de estas contiene la imagen de resumen pedida y un registro de la información relevante.
+
+Tarea 2: Majority Rule Model
+------------------------------
+El código desarrollado para esta tarea tiene las dependencias:
+* Numpy
+* Matplotlib
+#### Uso:
+* Ejecutar ambas celdas que definen las funciones
+* Correr la función Plotter con los parámetros deseados:
+    * Parámetro 1: Número de grupos
+    * Resto de parametros: la probabilidad de participación en los distintos grupos, debe cumplirse que
+    $\sum_{i=1}^{L}a_i=1$
