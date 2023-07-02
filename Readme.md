@@ -31,3 +31,22 @@ El código desarrollado para esta tarea tiene las dependencias:
     * Parámetro 1: Número de grupos
     * Resto de parametros: la probabilidad de participación en los distintos grupos, debe cumplirse que
     $\sum_{i=1}^{L}a_i=1$
+
+Tarea 3: Deffuant Model
+-------------------------
+El código desarrollado para esta tarea tiene las dependencias:
+* Numpy
+* Matplotlib
+* os
+* time
+#### Uso:
+* Ejecutar primera celda para importar las librerías
+* Ejecutar la celda que define la función
+* Correr la función con los parámetros deseados:
+    * Parámetro 1: Numero de agentes
+    * Parámetro 2: Número de emparejamientos
+    * Parámetro 3: Numero de pasos temporales
+    * Parámetro 4: Valor del Umbral
+    * Parámetro 5: Parámetro de convergencia
+    * Parámetro 6: Semilla aleatoria a utilizar
+    * Parámetro 7: Nombre de carpeta donde guardar los resultados, debe encerrarse en comillas, de la forma 'Nombre_carpeta'
