@@ -67,13 +67,12 @@ Tarea 4: Granovetter Model
 El código desarrollado para esta tarea tiene las dependencias:
 * Numpy
 * Matplotlib
+* os
 #### Uso:
-* Ejecutar ambas celdas que definen las funciones
-* Correr la función Plotter con los parámetros deseados:
-    * Parámetro 1: Número de grupos
-    * Resto de parametros: la probabilidad de participación en los distintos grupos, debe cumplirse que
-    $\sum_{i=1}^{L}a_i=1$
-
-Los parámetros necesarios para la reproducción de las figuras son:
-* Fig 1: $L=6, a_1=a_2=a_3=a_4=0.2, a_5=a_6=0.1$ 
-* Fig 2: $L=3, a_1=0,a_2=0.1,a_3=0.9$
+* Ejecutar primera celda para importar las librerías
+* Ejecutar las celdas que definen la funciones
+* Correr la función simul con los parámetros deseados:
+    * Parámetro 1: Distribución que se utilizará (normal o uniforme)
+    * Parámetro 2: Nombre de carpeta donde guardar los resultados, debe encerrarse en comillas, de la forma 'Nombre_carpeta'
+    * Parámetro 3 (Opcional): Media a utilizar
+    * Parámetro 4 (Opcional): Desviación estandar a utilizar
