@@ -57,8 +57,8 @@ El código desarrollado para esta tarea tiene las dependencias:
     * Parámetro 6: Nombre de carpeta donde guardar los resultados, debe encerrarse en comillas, de la forma 'Nombre_carpeta'
 
 Los parámetros necesarios para la reproducción de las figuras son:
-* Fig 1: $N=2000, dt=1000, \epsilon=0.5, \mu = 0.5$ 
-* Fig 2: $N=1000, dt=1000, \epsilon=0.2, \mu = 0.5$
+* Fig 1: $N=2000, steps = 50000, dt=1, \epsilon=0.5, \mu = 0.5$ 
+* Fig 2: $N=1000, steps = 50000, dt=1, \epsilon=0.2, \mu = 0.5$
 
 
 Tarea 4: Granovetter Model
