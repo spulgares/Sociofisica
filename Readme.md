@@ -38,7 +38,7 @@ Los parámetros necesarios para la reproducción de las figuras son:
 * Fig 1: $L=6, a_1=a_2=a_3=a_4=0.2, a_5=a_6=0.1$ 
 * Fig 2: $L=3, a_1=0,a_2=0.1,a_3=0.9$
 
-Tarea 3: Deffuant Model
+Tarea 3: Modelo de Deffuant
 -------------------------
 El código desarrollado para esta tarea tiene las dependencias:
 * Numpy
@@ -61,7 +61,7 @@ Los parámetros necesarios para la reproducción de las figuras son:
 * Fig 2: $N=1000, steps = 50000, dt=1, \epsilon=0.2, \mu = 0.5$
 
 
-Tarea 4: Granovetter Model
+Tarea 4: Modelo del Umbral (Granovetter)
 ------------------------------
 El código desarrollado para esta tarea tiene las dependencias:
 * Numpy
