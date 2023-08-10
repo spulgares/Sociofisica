@@ -34,10 +34,6 @@ El código desarrollado para esta tarea tiene las dependencias:
     * Resto de parametros: la probabilidad de participación en los distintos grupos, debe cumplirse que
     $\sum_{i=1}^{L}a_i=1$
 
-Los parámetros necesarios para la reproducción de las figuras son:
-* Fig 1: $L=6, a_1=a_2=a_3=a_4=0.2, a_5=a_6=0.1$ 
-* Fig 2: $L=3, a_1=0,a_2=0.1,a_3=0.9$
-
 Tarea 3: Modelo de Deffuant
 -------------------------
 El código desarrollado para esta tarea tiene las dependencias:
@@ -48,18 +44,13 @@ El código desarrollado para esta tarea tiene las dependencias:
 #### Uso:
 * Ejecutar primera celda para importar las librerías
 * Ejecutar la celda que define la función
-* Correr la función con los parámetros deseados:
+* Correr la función plotter con los parámetros deseados:
     * Parámetro 1: Numero de agentes
-    * Parámetro 2: Número de emparejamientos por paso temporal
-    * Parámetro 3: Numero de pasos temporales
+    * Parámetro 2: Número de pasos temporales
+    * Parámetro 3: Numero de emparejamientos por paso temporal
     * Parámetro 4: Valor del Umbral
     * Parámetro 5: Parámetro de convergencia
     * Parámetro 6: Nombre de carpeta donde guardar los resultados, debe encerrarse en comillas, de la forma 'Nombre_carpeta'
-
-Los parámetros necesarios para la reproducción de las figuras son:
-* Fig 1: $N=2000, steps = 50000, dt=1, \epsilon=0.5, \mu = 0.5$ 
-* Fig 2: $N=1000, steps = 50000, dt=1, \epsilon=0.2, \mu = 0.5$
-
 
 Tarea 4: Modelo del Umbral (Granovetter)
 ------------------------------
