@@ -1,13 +1,13 @@
 # Repositorio para la asignatura Sociofisica 2023-1
-Este repositorio contendrá los codigos de las tareas para la asignatura Sociofisica, que constituyen el portafolio de la asignatura
-
-Tarea 1: Voter Model
--------------------------
-El código desarrollado para esta tarea tiene las dependencias:
+Este repositorio contendrá los codigos de los modelos revisados en la asignatura Sociofisica.
+Los códigos desarrollado para esterepositorio tiene las dependencias:
 * Numpy
 * Matplotlib
 * os
 * time
+
+Tarea 1: Voter Model
+-------------------------
 #### Uso:
 * Ejecutar primera celda para importar las librerías
 * Ejecutar la celda que define la función
@@ -22,10 +22,7 @@ Los resultados de las simulaciones realizadas quedan en la carpeta "Simulacion/'
 
 Tarea 2: Majority Rule Model
 ------------------------------
-El código desarrollado para esta tarea tiene las dependencias:
-* Numpy
-* Matplotlib
-* os
+
 #### Uso:
 * Ejecutar ambas celdas que definen las funciones
 * Correr la función Plotter con los parámetros deseados:
@@ -36,11 +33,7 @@ El código desarrollado para esta tarea tiene las dependencias:
 
 Tarea 3: Modelo de Deffuant
 -------------------------
-El código desarrollado para esta tarea tiene las dependencias:
-* Numpy
-* Matplotlib
-* os
-* time
+
 #### Uso:
 * Ejecutar primera celda para importar las librerías
 * Ejecutar la celda que define la función
@@ -54,10 +47,7 @@ El código desarrollado para esta tarea tiene las dependencias:
 
 Tarea 4: Modelo del Umbral (Granovetter)
 ------------------------------
-El código desarrollado para esta tarea tiene las dependencias:
-* Numpy
-* Matplotlib
-* os
+
 #### Uso:
 * Ejecutar primera celda para importar las librerías
 * Ejecutar las celdas que definen la funciones
